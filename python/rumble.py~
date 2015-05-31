@@ -53,7 +53,7 @@ def do_print():
 k.press_key('Page_Down')
 k.release_key('Page_Down')
 print "Slide down!"
-k.tap_key('Page_Down',n=100,interval=5) 
+k.tap_key('Page_Down',n=5,interval=5) 
 
       
        
